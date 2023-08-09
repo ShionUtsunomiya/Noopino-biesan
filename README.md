@@ -170,6 +170,13 @@ print(random_number)
 当你想实现自己的梦想的时候，与自己赛跑的时候，你是希望周围的比你还强可以帮到你呢，还是你比他们强，没人能帮到你。
 ```
 
+### 蔚来汽车的建议
+做跑车，做最酷的东西。
+举办F1类似的赛车比赛，没电换电。
+
+
+
+![[nVIDIA](https://bmc.link/ShionUtsunomiya)](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
 
 
 
